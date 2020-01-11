@@ -16,3 +16,6 @@
 
 # How to Play
 To start the game please click on play button
+
+![](Hit-the-circle.gif)
+
