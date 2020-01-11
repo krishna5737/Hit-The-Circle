@@ -1,0 +1,56 @@
+#headerText{
+    padding-top: 1rem;
+}
+
+.centerAllignedText{
+    text-align: center;
+}
+
+.mainSectionHorizontalLine{
+    border-top: 3px double #8c8b8b
+} 
+
+.circle{
+  background: #ccc;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-top: 1rem;
+}
+
+
+@media only screen and (min-width: 450px) and (max-width:750px) {
+  .circle {
+    width: 40px;
+    height: 40px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@media only screen and (min-width: 750px) {
+  .circle {
+    width: 50px;
+    height: 50px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+
+.white {
+  background: #ccc;
+}
+
+.green{
+  background: green;
+}
+
+.btn{
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100px;
+}
+
+.scoreDiv{
+  text-align: center;
+}
